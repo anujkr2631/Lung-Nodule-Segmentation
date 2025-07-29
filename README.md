@@ -1,4 +1,4 @@
-# 🫁 Lung Nodule Segmentation on LIDC-IDRI Dataset
+# Lung Nodule Segmentation on LIDC-IDRI Dataset
 
 This project focuses on segmenting lung nodules from CT scan images using deep learning techniques, specifically a UNet-based architecture.
 
